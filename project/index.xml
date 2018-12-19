@@ -7,18 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Youri Nonclercq (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My project</title>
+      <title>First project about of the consequences of social networks on the sleep time </title>
       <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>Here the gitHub repository :
+https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality
+Here all the contributors to this rapport:
+https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality/graphs/contributors
+#Introduction
+Recently, there have been a lot of discussions about the effects of social networks and video games on sleeping hours. We wanted to make some research about that subject and thus we gather some data about some factors that may help us understands the influence of video games and social network and the differences between genders.</description>
     </item>
     
   </channel>
